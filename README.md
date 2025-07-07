@@ -1,5 +1,24 @@
-# cpp-basics
-C++-Language/<br>
+# C++ Language Practice Programs
+
+## 1. Basics
+Includes simple programs like hello world, user input, conditionals, loops, and switch-case.
+
+## 2. Class and Object
+Introduction to classes and objects, object creation, and student average calculation.
+
+## 3. Constructors
+Covers basic constructors, parameterized, default, copy, overloaded, and constructor with destructors.
+
+## 4. Encapsulation
+Demonstrates secure access to data members using methods.
+
+## 5. Friend Function
+Examples of friend functions with private access.
+
+## 6. Inheritance
+Various types of inheritance: single, multilevel, hierarchical, multiple, and hybrid.
+
+C++-Basics/<br>
 │<br>
 ├── 01-Basics/<br>
 │   ├── 1_hllo.cpp<br>
