@@ -11,15 +11,15 @@ class course
     public:
     void setcourse()
     {
-        cout<<"Enetr your course name : ";
+        cout<<"Enter your course name : ";
         cin>>name;
-        cout<<"Enetr your course code : ";
+        cout<<"Enter your course code : ";
         cin>>code;
     }
     void dispalycourse()
     {
-        cout<<"Enetr your course name : "<<name<<endl;
-        cout<<"Enetr your course code : "<<code<<endl;
+        cout<<" course name : "<<name<<endl;
+        cout<<" course code : "<<code<<endl;
 
     }
 
@@ -34,14 +34,14 @@ class Enrollment : public course
     {
         cout<<"Enter your student name : ";
         cin>>std_name;
-        cout<<"Enetr your student enrollment no : ";
+        cout<<"Enter your student enrollment no : ";
         cin>>roll_no;
     }
     void displayEnrollment()
     {
         dispalycourse();
-        cout<<"Enter your student name : "<<std_name<<endl;
-        cout<<"Enetr your student enrollment no : "<<roll_no<<endl;
+        cout<<" student name : "<<std_name<<endl;
+        cout<<" student enrollment no : "<<roll_no<<endl;
     }
 
 };

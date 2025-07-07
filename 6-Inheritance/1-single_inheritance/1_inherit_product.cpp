@@ -18,7 +18,7 @@ class Product
     }
     void displayProduct()
     {
-        cout<<" your product name :"<<productName<<endl;
+        cout<<"\n your product name :"<<productName<<endl;
         cout<<" your product price :"<<price<<endl;
     }
         float getPrice() {
