@@ -11,9 +11,9 @@ class course
     public:
     void setcourse()
     {
-        cout<<"Enter your course name : ";
+        cout<<"Enetr your course name : ";
         cin>>name;
-        cout<<"Enter your course code : ";
+        cout<<"Enetr your course code : ";
         cin>>code;
     }
     void dispalycourse()
@@ -34,7 +34,7 @@ class Enrollment : public course
     {
         cout<<"Enter your student name : ";
         cin>>std_name;
-        cout<<"Enter your student enrollment no : ";
+        cout<<"Enetr your student enrollment no : ";
         cin>>roll_no;
     }
     void displayEnrollment()
