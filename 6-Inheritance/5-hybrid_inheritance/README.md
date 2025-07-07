@@ -1,5 +1,5 @@
 #🔹Hybrid Inheritance
-inherit_per.cpp		<br>
+### 1.inherit_per.cpp		<br>
 /*Create a Result class using hybrid inheritance that combines academic and sports performance.
 Implement methods to set and display complete student results including personal, academic, and sports details.*/<br>
 👉 Base Class: Person Private: name, age Public: setPersonDetails(), displayPersonDetails()

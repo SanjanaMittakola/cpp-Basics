@@ -18,6 +18,8 @@ Examples of friend functions with private access.
 ## 6. Inheritance
 Various types of inheritance: single, multilevel, hierarchical, multiple, and hybrid.
 
+
+### path
 C++-Basics/<br>
 │<br>
 ├── 01-Basics/<br>

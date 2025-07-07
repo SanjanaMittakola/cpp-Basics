@@ -1,5 +1,5 @@
 # 🔹Multiple Inheritance
-1. inherit_device.cpp 	<br>
+### 1. inherit_device.cpp 	<br>
 /*Create a SmartDevice class that inherits from both Device and InternetEnabled.
 Implement methods to set and display device and network details using displaySmartDeviceDetails()<br>
 👉 Class 1: Device Private: deviceName, batteryLife Public: setDeviceDetails(), displayDeviceDetails()
