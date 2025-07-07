@@ -11,13 +11,13 @@ int main() {
         b = b * 10 + c;     
         a = a / 10;        
     }
-    cout << "Reversed value is: " << b ;
+    cout << "\nReversed value is: " << b ;
     if(n==b)
     {
-        cout<<"your value is palindrome";
+        cout<<"\nyour value is palindrome";
     }
     else{
-        cout<<"your value is not palindrome";
+        cout<<"\nyour value is not palindrome";
     }
     return 0;
 }

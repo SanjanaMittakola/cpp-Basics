@@ -10,7 +10,7 @@ int main()
     cin >>a;
     cout<<"Enter your float value: ";
     cin >>b;
-    cout <<"Enetr your chracter : ";
+    cout <<"Enter your chracter : ";
     cin >>c;
     cout <<"\nYour integer is: "<<a;
     cout <<"\nYour float is: "<<b;
