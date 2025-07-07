@@ -14,11 +14,11 @@ class ATM
     public:
     void setdetail()
     {
-        cout<<"Enter your Account number";
+        cout<<"Enter your Account number :";
         cin>>accountNumber;
-        cout<<"Enter your Account pin";
+        cout<<"Enter your Account pin :";
         cin>>pin;
-        cout<<"Enter your Account balance";
+        cout<<"Enter your Account balance :";
         cin>>balance;
     }
     bool verifyPIN(int enteredPin) 
