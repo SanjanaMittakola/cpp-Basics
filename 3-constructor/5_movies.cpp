@@ -25,9 +25,9 @@ int main()
 {
     int rate;
     string name;
-    cout<<"Enter your name : ";
+    cout<<" your name : ";
     cin>>name;
-    cout<<"Enter your rating: ";
+    cout<<" your rating: ";
     cin>>rate;
     movies y(rate, name);   // original object
     movies m2 =y;  //copy constructor   
