@@ -15,9 +15,9 @@ Write a class Book with a default constructor that prints “Book created” whe
 Create a class Circle with a parameterized constructor that sets the radius. Write a method to return the area.
 
 ## 🔹 Copy Constructor
-1.	movies.cpp		Create a class Movie with a copy constructor that copies the name and rating from another object.
+5.	movies.cpp		Create a class Movie with a copy constructor that copies the name and rating from another object.
 
-2. account.cpp		Write a program to demonstrate the use of a copy constructor in a class Account.
+6. account.cpp		Write a program to demonstrate the use of a copy constructor in a class Account.
 
 
 ## 🔹 Constructor Overloading
